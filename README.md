@@ -12,6 +12,7 @@
   <div>
     <a href="https://mp.weixin.qq.com/s/i4zz94OJf9ykG_Z9jZ9mtw"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160?style=for-the-badge" alt="WeChat"/></a>&emsp;
     <a href="https://v.douyin.com/rRPqV3NT8l4/"><img src="https://img.shields.io/badge/Douyin-抖音-000000?style=for-the-badge" alt="Douyin"/></a>&emsp;
+    <a href="https://xhslink.cn/o/4twRWL1I9Rz"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-ff2442?style=for-the-badge" alt="Xiaohongshu"/></a>&emsp;
     <a href="mailto:2868014836@qq.com"><img src="https://img.shields.io/badge/Email-2868014836@qq.com-2669B2?style=for-the-badge" alt="Email"/></a>&emsp;
   </div>
   
@@ -60,6 +61,7 @@
   <p>
     微信公众号：<a href="https://mp.weixin.qq.com/s/i4zz94OJf9ykG_Z9jZ9mtw">Robot工作坊</a>&emsp;|&emsp;
     抖音官方：<a href="https://v.douyin.com/rRPqV3NT8l4/">Robot工作坊</a>&emsp;|&emsp;
+    小红书：<a href="https://xhslink.cn/o/4twRWL1I9Rz">Robot工作坊</a>&emsp;|&emsp;
     联系邮箱：<a href="mailto:2868014836@qq.com">2868014836@qq.com</a>
   </p>
 </div>
