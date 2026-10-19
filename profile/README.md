@@ -39,15 +39,11 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/RobotWorkShop-BigHeroX/FreshmanGuide">
-        <h3>FreshmanGuide</h3>
-      </a>
+      <h3><a href="https://github.com/RobotWorkShop-BigHeroX/FreshmanGuide">FreshmanGuide</a></h3>
       <p>Robot工作坊新生培养指南：涵盖机械结构、嵌入式硬件、Linux 与 ROS 机器人操作系统、算法控制等基础培训与实操考核。</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/RobotWorkShop-BigHeroX/RoboCupBook">
-        <h3>RoboCupBook</h3>
-      </a>
+      <h3><a href="https://github.com/RobotWorkShop-BigHeroX/RoboCupBook">RoboCupBook</a></h3>
       <p>RoboCup 仿人机器人技术知识库：深入解析人形机器人步态运动控制、视觉识别、定位导航与多智能体博弈决策算法。</p>
     </td>
   </tr>
